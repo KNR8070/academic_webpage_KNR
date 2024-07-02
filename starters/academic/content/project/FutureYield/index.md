@@ -1,13 +1,14 @@
 ---
 title: The Future Yield Challenge
-summary: Predict end-of-season wheat and maize yields for each grid cell and year, using the daily weather experienced during the growing season (and just before), 
-          along with the soil texture and ambient CO2 level. The challenge is to predict yields in the future - from 2021 to 2100 - 
-          under a high-emissions climate change scenario, using training data from the last few decades (1980 - 2020).
+summary: Predict end-of-season wheat and maize yields for each grid cell and year, using the daily weather experienced during the growing season (and just before), ++
+          along with the soil texture and ambient CO2 level. The challenge is to predict yields in the future - from 2021 to 2100 - ++
+          under a high-emissions climate change scenario, using training data from the last few decades (1980 - 2020). ++
+          The prediction of yield is carried out using Python- Tendsorflow, and appilied methods like Random Forest, FeedForward Neural Networks, Long Short Term Memory (LSTM) model.
 tags:
   - TensorFlow
   - Machine Learning
   - Random Forest Method
-  - Long Short Term Method (LSTM)
+  - Long Short Term Memory (LSTM) method
 date: '2024-07-02T00:00:00Z'
 
 # Optional external URL for the project (replaces project detail page).
