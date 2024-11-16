@@ -19,9 +19,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
- # - name: Hobbies
- #   url: '#hobbies'
- #   weight: 60
+  - name: Tools Built
+    url: 'https://plot-metdata.streamlit.app/'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
