@@ -10,16 +10,16 @@ authors:
 - Devavat Chiru Naik
 author_notes:
 date: "2024-06-25T00:00:00Z"
-doi: "https://doi.org/10.5194/egusphere-2024-1431"
+doi: "https://doi.org/10.5194/gmd-18-763-2025"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-25T00:00:00Z"
+publishDate: "2025-02-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent;  9 = Dataset;
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Geoscientific Model Development*"
@@ -28,7 +28,7 @@ publication_short: "Geosci. Model Dev."
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'The study aimed to improve the representation of wheat and rice in a land model for the Indian region. The modified model performed significantly better than the default model in simulating crop phenology, yield, and carbon, water, and energy fluxes compared to observations. The study highlights the need for global land models to use region-specific crop parameters for accurately simulating vegetation processes and land surface processes.'
 
 tags:
 - Source Themes
@@ -49,7 +49,10 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Site-scale CLM performance against observations for (1) wheat and (2) rice. Crop variables compared are (a) maximum LAI
+during the growing season, (b) yield, and (c) growing season length. The three markers at each site location show the MAB of CLM5_Def
+(red), CLM5_Mod1 (cyan), and CLM5_Mod2 (blue). The MAB ranges from 0 to 1. The contour on the map is the crop area per 0.5° grid
+cell.'
   focal_point: "smart"
   preview_only: false
 
