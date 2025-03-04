@@ -35,7 +35,7 @@ education:
   courses:
     - course: Ph.D. in Land Surface Modeling
       institution: Centre for Atmospheric Sciences, Indian Institute of Technology Delhi
-      year: 2024
+      year: 2025
     - course: M.Tech in Atmospheric Sciences
       institution: Centre for Atmospheric Sciences, Indian Institute of Technology Delhi
       year: 2019
