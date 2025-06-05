@@ -177,7 +177,7 @@ sections:
         street: 119, Harry Pit Building,
                 NCAS, University of Reading
         city: Reading
-        region: London
+        # region: London
         postcode: RG6 6UR
         country: United Kingdom
         country_code: UK
