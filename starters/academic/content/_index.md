@@ -169,8 +169,8 @@ sections:
         Feel free to contact me for any questions, collaborations, or just a meet-up
       # Contact (add or remove contact options as necessary)
       email:
-            - knreddy@cas.iitd.ac.in
-            - narender.kangari@ncas.ac.uk
+            - 'knreddy@cas.iitd.ac.in'
+            - 'narender.kangari@ncas.ac.uk'
       phone: +91 9533615121
       #appointment_url: 'https://calendly.com'
       address:
