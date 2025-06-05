@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: "2023-08-23T00:00:00Z"
+date: "2025-06-05T00:00:00Z"
 type: landing
 
 sections:
@@ -168,16 +168,19 @@ sections:
       text: |-
         Feel free to contact me for any questions, collaborations, or just a meet-up
       # Contact (add or remove contact options as necessary)
-      email: knreddy@cas.iitd.ac.in
+      email:
+            - knreddy@cas.iitd.ac.in
+            - narender.kangari@ncas.ac.uk
       phone: +91 9533615121
       #appointment_url: 'https://calendly.com'
       address:
-        street: 421, Block VI, IITD, Hauz Khas
-        city: New Delhi
-        region: Delhi
-        postcode: '110016'
-        country: India
-        country_code: IN
+        street: 119, Harry Pit Building,
+                NCAS, University of Reading
+        city: Reading
+        region: London
+        postcode: RG6 6UR
+        country: United Kingdom
+        country_code: UK
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
         #- 'Monday 10:00 to 13:00'
