@@ -169,14 +169,14 @@ sections:
         Feel free to contact me for any questions, collaborations, or just a meet-up
       # Contact (add or remove contact options as necessary)
       email: 'narender.kangari@ncas.ac.uk'
-      phone: +91 9533615121
+      phone: +44 7482 196923
       #appointment_url: 'https://calendly.com'
       address:
         street: 119, Harry Pit Building,
                 NCAS, University of Reading
         city: Reading
         # region: London
-        postcode: RG6 6UR
+        postcode: RG6 6ES
         country: United Kingdom
         country_code: UK
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
