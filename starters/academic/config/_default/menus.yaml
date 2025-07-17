@@ -28,7 +28,7 @@ main:
     weight: 61
   - name: Meet me!!
     url: 'https://calendar.app.google/ryRk441zuLZVWG4P6'
-    parent: tools-built
+    #parent: tools-built
     weight: 62
     #weight: 60
   - name: Contact
