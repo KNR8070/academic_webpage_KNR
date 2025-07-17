@@ -18,11 +18,13 @@ role: Early Career Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: National Centre for Atmospheric Sciences, Department of Meteorology, University Of Reading
+    url: https://ncas.ac.uk/people/10749/narender-kangari
   - name: Centre for Atmospheric Sciences, Indian Institute of Technology Delhi
     url: https://cas.iitd.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include land surface modeling, surface fluxes (water, energy, and carbon fluxes), and renewable meteorology. I worked with the Integrated Science Assessment Model (ISAM) and the Community Land Surface Model version 5.0 (CLM5.0).
+bio: My research interests include land surface modeling, surface fluxes (water, energy, and carbon fluxes), and renewable meteorology. I worked with the Integrated Science Assessment Model (ISAM) and the Community Land Surface Model version 5.0 (CLM5.0). I am currently working on implementing the "p-model" in the JULES LSM.
 
 # Interests to show in About widget
 interests:
@@ -80,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a research scholar at the Centre for Atmospheric Sciences, Indian Institute of Technology Delhi. My primary research interests include land surface modeling, crop modeling, and associated surface fluxes. I also have expertise in wind farm layout optimization using machine learning. I am part of the IIT Delhi team of the ISRO-IITD Geosphere-Biosphere Program (GBP), which aims to improve the CLM5 land surface model to simulate Indian agroecosystems accurately.
+I am a research scientist at the National Centre for Atmospheric Sciences, Department of Meteorology, University of Reading. My primary research interests include land surface modeling, crop modeling, and associated surface fluxes. I also have expertise in wind farm layout optimization using machine learning. I am part of the CONCERTO project, which aims to improve the vegetation representation in land surface models to simulate carbin, energy, and water fluxes accurately.
 {style="text-align: justify;"}
