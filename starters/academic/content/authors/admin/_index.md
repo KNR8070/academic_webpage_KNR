@@ -82,5 +82,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a research scientist at the National Centre for Atmospheric Sciences, Department of Meteorology, University of Reading. My primary research interests include land surface modeling, crop modeling, and associated surface fluxes. I also have expertise in wind farm layout optimization using machine learning. I am part of the CONCERTO project, which aims to improve the vegetation representation in land surface models to simulate carbin, energy, and water fluxes accurately.
+I am a Research Scientist at the National Centre for Atmospheric Science, based in the Department of Meteorology at the University of Reading. My current research is part of the CONCERTO project, which aims to improve the representation of vegetation in land surface models—specifically JULES (Joint UK Land Environment Simulator)—to enhance the simulation of carbon, energy, and water fluxes.
+
+During my PhD, I focused on improving crop representations in land surface models, particularly CLM5 (Community Land Model version 5) and ISAM (Integrated Science Assessment Model), and investigated their influence on terrestrial biogeochemical and biophysical fluxes. My MTech research focused on optimizing wind turbine placement within wind farms using genetic algorithms, with the goal of maximizing energy production based on local meteorological conditions.
+
+My research interests lie at the intersection of land-atmosphere interactions, terrestrial ecosystem modeling, and the role of vegetation in modulating surface fluxes under changing climate and land-use conditions.
 {style="text-align: justify;"}
