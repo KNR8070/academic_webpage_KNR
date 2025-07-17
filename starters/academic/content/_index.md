@@ -15,6 +15,7 @@ sections:
     id: projects
     content:
       title: Projects
+      view: 3
       filters:
         folders:
           - project
