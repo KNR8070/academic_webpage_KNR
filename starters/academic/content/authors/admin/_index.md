@@ -87,4 +87,4 @@ I am a Research Scientist at the National Centre for Atmospheric Science, based 
 During my PhD, I focused on improving crop representations in land surface models, particularly CLM5 (Community Land Model version 5) and ISAM (Integrated Science Assessment Model), and investigated their influence on terrestrial biogeochemical and biophysical fluxes. My MTech research focused on optimizing wind turbine placement within wind farms using genetic algorithms, with the goal of maximizing energy production based on local meteorological conditions.
 
 My research interests lie at the intersection of land-atmosphere interactions, terrestrial ecosystem modeling, and the role of vegetation in modulating surface fluxes under changing climate and land-use conditions.
-{style="text-align: justify;"}
+{style="text-align: justify; font-size: 0.9em;"}
