@@ -67,6 +67,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
+          date_end: '2025-06-09T00:00:00Z'
+          date_start: '2025-06-13T00:00:00Z'
+          description: 'Attended the workshop'
+          organization: Data Assimilation Research Centre (DARC), University of Reading
+          organization_url: 'https://research.reading.ac.uk/met-darc/'
+          title: NERC/NCEO/DARC Training course on data assimilation and its interface with machine learning 2025
+          url: 'https://research.reading.ac.uk/met-darc/training/training-courses/nerc-nceo-darc-training-course-on-data-assimilation-and-its-interface-with-machine-learning-2025/'
+    
+        - certificate_url: ''
           date_end: '2021-06-10T00:00:00Z'
           date_start: '2021-06-07T00:00:00Z'
           description: 'Attended the workshop'
@@ -74,14 +83,16 @@ sections:
           organization_url: https://www.mmm.ucar.edu/
           title: Joint WRF and MPAS Users’ Workshop 2021
           url: 'https://www.mmm.ucar.edu/events/workshops/wrf-mpas/2021'
+
         - certificate_url: ''
           date_end: '2021-03-06T00:00:00Z'
           date_start: '2021-03-04T00:00:00Z'
-          description: 'A unique online conference bringing together Academics, Researchers & Corporate leaders from India and Canada to discuss Global Challenges in Agriculture, Climate, Energy, Plant, and Soil will be held from March 4-5, 2021.'
+          description: 'A unique online conference bringing together Academics, Researchers & Corporate leaders from India and            Canada to discuss Global Challenges in Agriculture, Climate, Energy, Plant, and Soil will be held from March 4-5, 2021.'
           organization: IIT Delhi and University of Alberta
           organization_url: 
           title: 'Science and Technology for the New Age: Acquisition, Analyses and Adaptation'
           url: 'https://international.iitd.ac.in/blog/2021/02/24/indo-canadian-conference/'
+
         - certificate_url: ''
           date_end: '2021-06-15T00:00:00Z'
           date_start: '2021-06-16T00:00:00Z'
@@ -90,6 +101,7 @@ sections:
           organization_url: 
           title: 'UQ-IITD Workshop on Agriculture Technology'
           url: 'https://international.iitd.ac.in/agtech/'
+
         - certificate_url: ''#uploads/SHELL.ai_Participation.pdf
           date_end: '2020-10-20T00:00:00Z'
           date_start: '2020-09-14T00:00:00Z'
@@ -98,6 +110,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Shell.ai Hackathon
           url: 'https://www.hackerearth.com/challenges/new/competitive/shell-hackathon/'
+
         - certificate_url: ''#uploads/Baja_2015.jpg
           date_end: '2014-08-02'
           date_start: '2014-08-01'
@@ -106,6 +119,7 @@ sections:
           organization_url: https://saeindia.org/
           title: Virtual BAJA SAE India 2014
           url:
+
         - certificate_url: ''
           date_end: '2019-07-01'
           date_start: '2019-07-01'
@@ -114,6 +128,7 @@ sections:
           organization_url: https://cas.iitd.ac.in/
           title: Ganga Devi and Khem Chand Memorial award
           url: ''
+
         - certificate_url: ''#uploads/Baja_2015.jpg
           date_end: '2016-02-21'
           date_start: '2016-02-18'
@@ -122,6 +137,7 @@ sections:
           organization_url: https://saeindia.org/
           title: Mahindra BAJA SAE India 2016
           url: ''
+
         - certificate_url: ''#uploads/ExpertHub_ICEngines.jpg
           date_end: '2014-12-27'
           date_start: '2014-12-20'
@@ -130,6 +146,7 @@ sections:
           organization_url: https://expertshub.org/
           title: 'Internship training program on Automotive IC Engine Design and Development'
           url: ''
+
         - certificate_url: ''#uploads/UDVAVISK_FEA_Workshop.jpg
           date_end: '2015-08-14'
           date_start: '2015-08-11'
@@ -139,7 +156,7 @@ sections:
           title: Individual Training on Finite Element Analysis (FEA)
           url: ''
       design:
-      columns: '2'
+      columns: '6'
       view: compact
   #- block: collection
   #  id: hobbies
