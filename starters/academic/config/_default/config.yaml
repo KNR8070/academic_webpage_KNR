@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: K N Reddy # Website name
+title: Dr. K N Reddy # Website name
 baseURL: 'https://knreddy.online/' # Website URL
 
 ############################
