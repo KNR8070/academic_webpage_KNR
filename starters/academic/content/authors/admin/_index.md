@@ -18,7 +18,7 @@ role: Reasearch Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National Centre for Atmospheric Sciences, Department of Meteorology, University Of Reading
+  - name: National Centre for Atmospheric Sciences (NCAS), University of Reading
     url: https://ncas.ac.uk/people/10749/narender-kangari
   #- name: Centre for Atmospheric Sciences, Indian Institute of Technology Delhi
   #  url: https://cas.iitd.ac.in/
