@@ -1,6 +1,6 @@
 ---
 # Display name
-title: K Narender Reddy
+title: Dr. Kangari Narender Reddy
 
 # Full name (for SEO)
 first_name: K Narender
@@ -14,14 +14,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Early Career Scientist
+role: Reasearch Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: National Centre for Atmospheric Sciences, Department of Meteorology, University Of Reading
     url: https://ncas.ac.uk/people/10749/narender-kangari
-  - name: Centre for Atmospheric Sciences, Indian Institute of Technology Delhi
-    url: https://cas.iitd.ac.in/
+  #- name: Centre for Atmospheric Sciences, Indian Institute of Technology Delhi
+  #  url: https://cas.iitd.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include land surface modeling, surface fluxes (water, energy, and carbon fluxes), and renewable meteorology. I worked with the Integrated Science Assessment Model (ISAM) and the Community Land Surface Model version 5.0 (CLM5.0). I am currently working on implementing the "p-model" in the JULES LSM.
