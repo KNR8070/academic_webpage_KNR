@@ -14,10 +14,10 @@ abstract: 'I had the privilege of being one of the instructors at the Summer Sch
 #   End time can optionally be hidden by prefixing the line with `#`.
 date_start: '2025-09-07T00:00:00Z'
 date_end: '2025-09-19T00:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-11-04T21:05:00Z'
+publishDate: '2025-11-04T00:00:00Z'
 
 authors: [K Narender Reddy, Trostren ]
 tags: []
