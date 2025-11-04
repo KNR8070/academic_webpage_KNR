@@ -203,10 +203,10 @@ sections:
         #- 'Monday 10:00 to 13:00'
        # - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: linkedin
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/vivekreddy'
+          link: 'https://www.linkedin.com/in/k-narender-reddy-phd-00855b60/'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
