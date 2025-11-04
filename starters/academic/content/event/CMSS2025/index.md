@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-11-04T00:00:00Z'
 
-authors: [K Narender Reddy, Trostren ]
+authors: [K Narender Reddy]
 tags: []
 
 # Is this a featured talk? (true/false)
