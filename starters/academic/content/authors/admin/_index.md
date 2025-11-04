@@ -64,7 +64,7 @@ social:
     link: https://github.com/KNR8070
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/k-narender-reddy-00855b60/
+    link: https://www.linkedin.com/in/k-narender-reddy-phd-00855b60/
     label: Follow me on LinkedIn
     display:
       header: true
