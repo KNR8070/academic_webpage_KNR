@@ -1,5 +1,5 @@
 ---
-title:Talks & Events
+title: Talks & Events
 cms_exclude: true
 
 
