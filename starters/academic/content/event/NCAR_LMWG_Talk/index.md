@@ -30,10 +30,6 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/vivekreddy
   - icon: youtube
     icon_pack: fab
     name: watch (2:00 to 25:00)
