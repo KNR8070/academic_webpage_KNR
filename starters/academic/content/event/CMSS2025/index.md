@@ -3,7 +3,7 @@ title: Instructor of Climate Modelling using SpeedyWeather.jl
 
 event: Climate Modeling Summer School 2025
 event_url: "https://ncas.ac.uk/study-with-us/climate-modelling-summer-school/"
-#date_format: 'yyyy-mm-dd'
+date_format: 'yyyy-mm-dd'
 
 location: Cambridge, UK.
 
