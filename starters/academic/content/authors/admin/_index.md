@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Dr. Kangari Narender Reddy
+title: Kangari Narender Reddy
 
 # Full name (for SEO)
-first_name: K Narender
+first_name: K. Narender
 last_name: Reddy
 
 # Status emoji
@@ -76,7 +76,7 @@ social:
     link: https://orcid.org/0000-0003-1626-3860
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'narender.kangari@ncas.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
