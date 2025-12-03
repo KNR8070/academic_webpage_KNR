@@ -35,7 +35,7 @@ simulation of yield and irrigation compared to observed data (Lombardozzi et al.
 and AchuthaRao, 2020). The primary challenge in improving the representation of Indian crops
 is the scarcity of publicly accessible crop data necessary for model calibration and evaluation
 (Gahlot et al., 2020).
-
+\n
 This thesis aims to investigate the spatio-temporal variability in crop phenology and
 terrestrial fluxes across Indian agroecosystems and the role of natural and anthropogenic drivers
 in the observed variability. The specific objectives are outlined as follows: (1) to understand
@@ -45,7 +45,7 @@ at a regional scale, (4) to estimate the regional and inter-annual variability o
 parameters and terrestrial fluxes within Indian agroecosystems and the role of various drivers
 using CLM5 model, and finally (5) to evaluate the improved CLM5 model against the state-ofthe-art 
 LSM representing Indian agroecosystems.
-
+\n
 First, Chapter 2 addresses the objective 1 that attempts to solve the main bottleneck
 in accurately simulating Indian agroecosystems, specifically the absence of publicly accessible
 crop datasets that hinders our ability to quantitatively understand and model agroecosystems.
@@ -61,7 +61,7 @@ increase, for wheat) over the 1970-2020 period. However, there is no considerabl
 or trend observed in the growing season length of the crops during this period. Interestingly,
 a statistically significant increasing trend in harvest dates of wheat crop is observed from the
 dataset; harvest dates extended by ∼14 days over the 50-year period (p<0.1).
-
+\n
 Chapter 3 addresses objective 2, where the CLM5 model is improved and evaluated
 against site-scale observations. The default version of the CLM5 model failed to replicate the
 crop phenology and growth seen in the site-scale observations. To address this drawback, the
@@ -79,7 +79,7 @@ phenology, and yield compared to site-scale observations. RMSE for Leaf Area Ind
 wheat and rice reduced by ∼50%. The RMSE in yield estimations for wheat and rice reduced
 by ∼40% and ∼60%, respectively. The RMSE of the growing season length for the wheat crop
 reduced by ∼75%.
-
+\n
 Chapter 4 addresses objective 3, where the improved CLM5 is evaluated at regional
 scale by conducting numerical simulations for the 2000–2014 period. For this purpose, the
 values of yield, irrigation amounts and patterns, and terrestrial fluxes simulated by the default
@@ -91,7 +91,7 @@ considerable improvement and are now closer to observations. The findings from t
 and regional-scale assessment of the improved model underscore the importance of employing
 region-specific crop parameters to accurately simulate agroecosystems and regional land surface
 processes.
-
+\n
 Chapter 5 addresses objective 4. The chapter examines the regional and inter-annual
 variability in crop yield and terrestrial fluxes within Indian agroecosystems, utilizing multidecadal 
 simulations that cover the period from 1970 to 2014. Furthermore, numerical experiments are conducted 
@@ -106,7 +106,7 @@ is cultivated in warm and wet seasons. Irrigation primarily influenced wheat yie
 grown in dry and cold seasons. Even with the detrimental effects of climate on crop growth
 and terrestrial fluxes, higher CO2 levels and increased human activities, like fertilization and
 irrigation, alleviated these challenges, leading to a rise in crop yields over the study period.
-
+\n
 Chapter 6 of the thesis performs a comparative analysis of the CLM5 model and the
 Integrated Science Assessment Model (ISAM), which is the only other land surface model
 calibrated and assessed (Gahlot et al., 2020) to simulate the Indian crops to the best of my
@@ -129,7 +129,7 @@ ISAM, major conclusions are drawn. Both models have a lot of scope for improveme
 can incorporate the precipitation variability to simulate regional variability in sowing dates.
 ISAM can incorporate an improved carbon-nitrogen cycle so that the simulated carbon fluxes
 over agroecosystems are closer to observations.
-
+\n
 This is the first study to address the long-term spatial and inter-annual variability of
 agroecosystem physiological parameters and their terrestrial fluxes in India using a robustly
 calibrated LSM. One of the primary contributions of this work is making the Indian crop data
