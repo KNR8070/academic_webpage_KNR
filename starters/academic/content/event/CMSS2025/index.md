@@ -8,7 +8,7 @@ date_format: 'yyyy-mm-dd'
 location: Cambridge, UK.
 
 summary: Climate models are important tools for understanding the Earth’s climate and assessing current and future risks of climate change. Through this Climate Modelling Summer School we cover the fundamental principles of climate modelling through a mixture of lectures and practical assignments over two weeks.
-abstract: 'I had the privilege of being one of the instructors at the Summer School, developing hands-on practicals with SpeedyWeather.jl. The summer school came together thanks to the hard work of the entire organising team, Pier Luigi Vidale, Anna Sommers, Hilary Weller, Torsten Auerswald (National Centre for Atmospheric Science), Alex Baker (National Centre for Atmospheric Science), Ipshita Dey, Stella Bourdin, Michael Lai (Met Office), Malcom Roberts, Milan Klower and I who have worked over two weeks to deliver high-quality training'
+abstract: 'I had the privilege of being one of the instructors at the Summer School, developing hands-on practicals with SpeedyWeather.jl. The summer school came together thanks to the hard work of the entire organising team, Pier Luigi Vidale, Anna Sommers, Hilary Weller, Torsten Auerswald, Alex Baker, Ipshita Dey, Stella Bourdin, Michael Lai, Malcom Roberts, and Milan Klower who have worked over two weeks to deliver high-quality training'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
