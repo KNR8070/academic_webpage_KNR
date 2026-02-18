@@ -188,7 +188,7 @@ sections:
         Feel free to contact me for any questions, collaborations, or just a meet-up
       # Contact (add or remove contact options as necessary)
       email: 'narender.kangari@ncas.ac.uk'
-      phone: +44 7482 196923
+      #phone: +44 7482 196923
       #appointment_url: 'https://calendly.com'
       address:
         street: 119, Harry Pit Building,
