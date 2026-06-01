@@ -191,7 +191,7 @@ sections:
       #phone: +44 7482 196923
       #appointment_url: 'https://calendly.com'
       address:
-        street: 119, Harry Pit Building,
+        street: 286, Harry Pit Building,
                 NCAS, University of Reading
         city: Reading
         # region: London
