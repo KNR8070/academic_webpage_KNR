@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kangari Narender Reddy
+title: Narender Reddy Kangari
 
 # Full name (for SEO)
-first_name: K. Narender
-last_name: Reddy
+first_name: Narender Reddy
+last_name: Kangari
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ organizations:
   #  url: https://cas.iitd.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include land surface modeling, surface fluxes (water, energy, and carbon fluxes), and renewable meteorology. I worked with the Integrated Science Assessment Model (ISAM) and the Community Land Surface Model version 5.0 (CLM5.0). I am currently working on implementing the "p-model" in the JULES LSM.
+bio: My research interests include land surface modeling, surface fluxes (water, energy, and carbon fluxes), and renewable meteorology. I worked with the Integrated Science Assessment Model (ISAM) and the Community Land Surface Model version 5.0 (CLM5.0). I am currently working on implementing the "p-model" in the JULES land surface model.
 
 # Interests to show in About widget
 interests:
