@@ -12,7 +12,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_start: '2024-02-29T21:05:00Z'
+date: '2024-02-29T21:05:00Z'
 date_end: '2024-02-29T21:25:00Z'
 all_day: false
 
