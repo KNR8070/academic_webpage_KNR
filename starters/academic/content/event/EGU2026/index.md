@@ -17,7 +17,7 @@ date_end: '2026-05-05T11:05:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-09-11T21:05:00Z'
+publishDate: '2026-09-09T21:05:00Z'
 
 authors: [K Narender Reddy, Wenyao Gan, Pier Luigi Vidale, Martin Best]
 tags: []
