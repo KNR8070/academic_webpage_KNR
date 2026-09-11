@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2026-09-11T21:05:00Z'
 
-authors: [K Narender Reddy, Wenyao Gan, Pier Luigi Vidale, and Martin Best]
+authors: [K Narender Reddy, Wenyao Gan, Pier Luigi Vidale, Martin Best]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -30,10 +30,10 @@ image:
   focal_point: Right
 
 links:
-  #- icon: youtube
-  #  icon_pack: fab
-    name: watch (2:00 to 25:00)
-    url: https://www.youtube.com/watch?v=et2nOz82Gq0
+  - icon: doi
+    icon_pack: fab
+    name: abstract
+    url: https://doi.org/10.5194/egusphere-egu26-12215
 url_code: ''
 url_pdf: ''
 url_slides: ''
