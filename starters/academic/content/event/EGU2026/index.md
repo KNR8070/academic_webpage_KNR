@@ -12,7 +12,7 @@ abstract: 'Land surface models (LSMs) often exhibit substantial biases in simula
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_start: '2026-05-05T10:55:00Z'
+date: '2026-05-05T10:55:00Z'
 date_end: '2026-05-05T11:05:00Z'
 all_day: false
 
