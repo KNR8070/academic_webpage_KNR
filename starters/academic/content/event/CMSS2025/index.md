@@ -12,7 +12,7 @@ abstract: 'I had the privilege of being one of the instructors at the Summer Sch
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_start: '2025-09-07'
+date: '2025-09-07'
 date_end: '2025-09-19'
 all_day: false
 
